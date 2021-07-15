@@ -1,6 +1,11 @@
 ## Introduction
 오픈소스 WebRTC 인 MediaSOUP에 기반한 화상회의 솔루션을 도커 이미지로 구축하는 프로젝트입니다.
 
+## Spec
+* OS : Ubuntu 18.04 (WSL on Windows 10) 
+* Docker Desktop
+* MediaSoup (Node.js + React.js)
+
 ## Schedule
 ### week 1 : 4/4 - 4/10
 * 일정 계획 및 개발 준비
